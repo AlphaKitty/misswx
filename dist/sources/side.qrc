@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>smile.ico</file>
+  </qresource>
+  <qresource prefix="pic">
+    <file>snowhouse.jpg</file>
+  </qresource>
+</RCC>
